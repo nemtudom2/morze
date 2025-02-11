@@ -1,0 +1,7 @@
+H:\asztaliasdf\morze\morze\SzI-morze\SzI-morze\bin\Debug\SzI-morze.exe.config
+H:\asztaliasdf\morze\morze\SzI-morze\SzI-morze\bin\Debug\SzI-morze.exe
+H:\asztaliasdf\morze\morze\SzI-morze\SzI-morze\bin\Debug\SzI-morze.pdb
+H:\asztaliasdf\morze\morze\SzI-morze\SzI-morze\obj\Debug\SzI-morze.csproj.AssemblyReference.cache
+H:\asztaliasdf\morze\morze\SzI-morze\SzI-morze\obj\Debug\SzI-morze.csproj.CoreCompileInputs.cache
+H:\asztaliasdf\morze\morze\SzI-morze\SzI-morze\obj\Debug\SzI-morze.exe
+H:\asztaliasdf\morze\morze\SzI-morze\SzI-morze\obj\Debug\SzI-morze.pdb

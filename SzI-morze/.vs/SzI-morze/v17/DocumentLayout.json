@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\asztaliasdf\\morze\\SzI-morze\\",
+  "WorkspaceRootPath": "H:\\asztaliasdf\\morze\\morze\\SzI-morze\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A7ACAE4-7C4D-45BA-89A7-B7A7E12FE1D2}|SzI-morze\\SzI-morze.csproj|h:\\asztaliasdf\\morze\\szi-morze\\szi-morze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A7ACAE4-7C4D-45BA-89A7-B7A7E12FE1D2}|SzI-morze\\SzI-morze.csproj|h:\\asztaliasdf\\morze\\morze\\szi-morze\\szi-morze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A7ACAE4-7C4D-45BA-89A7-B7A7E12FE1D2}|SzI-morze\\SzI-morze.csproj|solutionrelative:szi-morze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "H:\\asztaliasdf\\morze\\SzI-morze\\SzI-morze\\Program.cs",
+              "DocumentMoniker": "H:\\asztaliasdf\\morze\\morze\\SzI-morze\\SzI-morze\\Program.cs",
               "RelativeDocumentMoniker": "SzI-morze\\Program.cs",
-              "ToolTip": "H:\\asztaliasdf\\morze\\SzI-morze\\SzI-morze\\Program.cs",
+              "ToolTip": "H:\\asztaliasdf\\morze\\morze\\SzI-morze\\SzI-morze\\Program.cs",
               "RelativeToolTip": "SzI-morze\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T12:51:23.61Z",
               "EditorCaption": ""

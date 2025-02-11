@@ -16,12 +16,14 @@ namespace SzI_morze
             Dictionary<string, string> abc = new Dictionary<string, string>();
             foreach (string line in a)
             {
-                abc[line.Split('\t')[1]] = line.Split('\t')[0];
+                abc[line.Split('\t')[0].ToLower()] = line.Split('\t')[1];
+                abc[line.Split('\t')[0].ToUpper()] = line.Split('\t')[1];
             }
             Console.WriteLine($"A file {abc.Count()} elemet tartalmaz");
             Console.Write($"kerek egy karaktert: ");
             var b = Console.ReadLine();
             Console.WriteLine(abc.ContainsKey(b)? abc[b] : "nincs ilyen karakter");
+            Console.ReadLine();
         }
     }
 }
